@@ -52,6 +52,24 @@ Three classification algorithms were trained and compared:
 
 All models were evaluated using the same train/test split to make the comparison fair.
 
+## Visualizations
+
+### Logistic Regression
+
+![Logistic Regression Confusion Matrix](images/logistic_confusion_matrix.png)
+
+### Decision Tree
+
+![Decision Tree Confusion Matrix](images/decision_tree_confusion_matrix.png)
+
+### Random Forest
+
+![Random Forest Confusion Matrix](images/random_forest_confusion_matrix.png)
+
+### Model Accuracy Comparison
+
+![Model Accuracy Comparison](images/model_comparison.png)
+
 ## Evaluation Metrics
 
 The models were evaluated using:
