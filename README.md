@@ -56,7 +56,7 @@ All models were evaluated using the same train/test split to make the comparison
 
 ### Logistic Regression
 
-![Logistic Regression Confusion Matrix](images/logistic_regression_confusion_matrix.png)
+![Logistic Regression Confusion Matrix](images/logisitic_regression_confusion_matrix.png)
 
 ### Decision Tree
 
